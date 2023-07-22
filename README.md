@@ -14,10 +14,10 @@ generate messages according to:
 Try the app in your PC with npm
 
 ```bash
-  git clone https://github.com/yangenmanuel/ai-writer.git
-  cd ./ai-writer
+  git clone https://github.com/yangenmanuel/AI_Writer.git
+  cd ./AI_Writer
   npm i
   npm run dev
 ```
 
-ℹ️ This project was used to participate in the CO:HERE hackathon
+
