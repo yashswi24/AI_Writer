@@ -14,7 +14,7 @@ generate messages according to:
 Try the app in your PC with npm
 
 ```bash
-  git clone https://github.com/yangenmanuel/AI_Writer.git
+  git clone https://github.com/yashswi24/AI_Writer.git
   cd ./AI_Writer
   npm i
   npm run dev
